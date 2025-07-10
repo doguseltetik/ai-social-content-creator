@@ -246,4 +246,4 @@ For support, email support@aisocialcontent.com or create an issue in the reposit
 
 ---
 
-Built with ❤️ for creators and businesses who want to leverage AI for better social media content. 
+Built with ❤️ for creators and businesses who want to leverage AI for better social media content. **Live Demo**: https://ai-social-content-creator.vercel.app/
